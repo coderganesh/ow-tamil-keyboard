@@ -15,7 +15,7 @@ A simple, easy to use Tamil keyboard layout for Humans.
 
 ## Usage
 Each Tamil letter is mapped to the English letter having similar pronounciation.
-### உயிரஂ எழுதஂதுகளஂ:
+### உயிரஂ எழுதஂதுகளஂ (Vowels):
 அ -> A \
 இ -> E \
 உ -> U \
@@ -29,7 +29,7 @@ Shift + உ = ஊ \
 Shift + எ = ஏ \
 Shift + ஒ = ஓ
 
-### மெயஂ எழுதஂதுகளஂ:
+### மெயஂ எழுதஂதுகளஂ (Consonants):
 க -> K \
 ங -> G \
 ச -> C \
@@ -50,12 +50,12 @@ Shift + ஒ = ஓ
 ன -> N \
 ஂ -> S
 
-### உயிரஂ மெயஂ எழுதஂதுகளஂ:
+### உயிரஂ மெயஂ எழுதஂதுகளஂ (Syllables):
 AltGr = Right Alt (or) Ctrl + Alt
 
 AltGr + உயிரஂ எழுதஂது = உயிரஂ மெயஂ எழுதஂது
 
-### ஆயஂத எழுதஂது:
+### ஆயஂத எழுதஂது (Triple dot consonant):
 Shift + ஂ = ஃ
 
 ## Examples
