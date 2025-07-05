@@ -25,7 +25,9 @@ The easiest Tamil keyboard layout ever created — designed for Linux, based on 
    and **select "Right Alt"**.
 
 ## Usage
-Each Tamil letter is mapped to English letter having similar pronunciation.
+Each Tamil letter is mapped to English letter having similar pronunciation. \
+AltGr = Right Alt key
+
 ### உயிர் எழுத்துகள் (Vowels):
 அ -> A \
 இ -> E \
@@ -68,8 +70,6 @@ Shift + 𑌸 = 𑌷 \
 AltGr + J = 𑌜 
 
 ### உயிர்மெய் எழுதஂதுகளஂ (Syllables):
-AltGr = Right Alt key
-
 AltGr + உயிர் எழுத்து = உயிர்மெய் எழுத்து
 
 ### ஆயுத எழுதஂது (Triple dot):
