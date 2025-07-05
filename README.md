@@ -1,18 +1,18 @@
-# ow-tamil-keyboard-linux
-The easiest Tamil keyboard layout ever created — designed for Linux, based on mapping Tamil letters to English letters with similar pronunciation.
+# ⌨️ ow-tamil-keyboard-linux
+Ow - The easiest Tamil keyboard layout ever created — designed for Linux, based on mapping Tamil letters to English letters with similar pronunciation.
 
-## Features
+## ✨ Features
 1. Fully compatible with Debian-based Linux distributions
 2. Easy to install/uninstall and use
 3. No need to memorise complex key mappings
 4. Supports four commonly used Grantha characters
 5. Uses only 27 keys: 25 alphabetic, 1 Shift, and 1 AltGr
 
-## Installation
+## 🛠️ Installation
 1. Download the **.deb** package from the release page
 2. Install it as usual using package manager
 
-## Post-Installation Steps
+## 🔧 Post-Installation Steps
 
 1. **Add the Keyboard Layout**  
    After installation, go to your  
@@ -24,8 +24,7 @@ The easiest Tamil keyboard layout ever created — designed for Linux, based on 
    **System Settings > Keyboard > Layout Options > Key to choose 3rd level**  
    and **select "Right Alt"**.
 
-## Usage
-Each Tamil letter is mapped to English letter having similar pronunciation. \
+## 🚀 Usage
 AltGr = Right Alt key
 
 ### உயிர் எழுத்துகள் (Vowels):
@@ -75,9 +74,13 @@ AltGr + உயிர் எழுத்து = உயிர்மெய் எ�
 ### ஆயுத எழுதஂது (Triple dot):
 Shift + W = ஃ
 
-## Examples
+## 🔡 Examples
 1. A + M + W + M + (AltGr + (Shift + A)) = அம்மா
 2. D + M + (AltGr + E) + Z + W = தமிழ்
 3. E + M + Y + B + W = இமயன்
 4. A + (Shift + W) + (Shift + D) + (AltGr + U) = அஃது
 5. (AltGr + J) + P + M + W = 𑌜பம்
+
+## 🙋‍♂️ Having Issues?
+
+If you face any problems or have suggestions, feel free to [open an issue](https://github.com/coderganesh/ow-tamil-keyboard-linux/issues).
