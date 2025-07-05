@@ -19,7 +19,7 @@ The easiest Tamil keyboard layout ever created — designed for Linux, based on 
    **System Settings > Keyboard > Layouts**  
    and **add the newly installed layout** to start using it.
 
-2. **Fix Right Alt (AltGr) Key Issue (Optional)**  
+2. **Fix Right Alt (AltGr) Key Issue**  
    If the **AltGr (Right Alt)** key is not working, enable it by going to:  
    **System Settings > Keyboard > Layout Options > Key to choose 3rd level**  
    and **select "Right Alt"**.
@@ -58,14 +58,14 @@ Shift + ஒ = ஓ
 ன -> B \
 Shift + ன = ண \
 Shift + ர = ற \
-Shift + ல = ள
+Shift + ல = ள \
 ் -> W \
 
 ### ௧ிரந்த மெய் எழுத்துகள் (Grantha Consonants):
 𑌸 -> S \
-𑌷 -> Shift + 𑌸 \
-𑌜 -> AltGr + J \
-𑌹 -> H
+𑌹 -> H \
+Shift + 𑌸 = 𑌷 \
+AltGr + J = 𑌜 
 
 ### உயிர்மெய் எழுதஂதுகளஂ (Syllables):
 AltGr = Right Alt key
@@ -73,7 +73,7 @@ AltGr = Right Alt key
 AltGr + உயிர் எழுத்து = உயிர்மெய் எழுத்து
 
 ### ஆயுத எழுதஂது (Triple dot):
-Shift + ் = ஃ
+Shift + W = ஃ
 
 ## Examples
 1. A + M + W + M + (AltGr + (Shift + A)) = அம்மா
