@@ -1,0 +1,11 @@
+<variant>
+    <configItem>
+    <name>owtamilkb</name>
+    <!-- Keyboard indicator for Tamil layouts -->
+    <shortDescription>ta</shortDescription>
+    <description>Tamil (Ow Keyboard)</description>
+    <languageList>
+        <iso639Id>tam</iso639Id>
+    </languageList>
+    </configItem>
+</variant>
