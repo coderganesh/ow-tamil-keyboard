@@ -7,7 +7,7 @@ Ow - The easiest Tamil keyboard layout ever created — designed for Linux, base
 1. Fully compatible with Debian-based Linux distributions
 2. Easy to install/uninstall and use
 3. No need to memorise complex key mappings
-4. Supports five commonly used Grantha-derived Tamil characters and the Indian rupees symbol
+4. Supports five commonly used Grantha-derived Tamil characters and the Indian rupee symbol
 5. Uses only 27 keys: 25 alphabetic, 1 Shift, and 1 AltGr
 
 ## 🛠️ Installation
@@ -55,14 +55,14 @@ Ow - The easiest Tamil keyboard layout ever created — designed for Linux, base
 `AltGr + 4 → ₹`
 
 ## 🔡 Examples
-1. E + M + Y + M + W = இமயம்
-2. (Shift + E) + C + L + W = ஈசல்
-3. N + (AltGr + E) + L + M + W = நிலம்
-4. N + (AltGr + (Shift + E)) + R + W = நீர்
-5. A + (Shift + K) + D + (AltGr + U) = அஃது
-6. H + (AltGr + (Shift + A)) + L + W = ஹால்
-7. P + S + W = பஸ்
-8. (Shift + S) + (AltGr + (Shift + U)) = ஷூ
+- `E + M + Y + M + W` → **இமயம்**
+- `(Shift + E) + C + L + W` → **ஈசல்**
+- `N + (AltGr + E) + L + M + W` → **நிலம்**
+- `N + (AltGr + (Shift + E)) + R + W` → **நீர்**
+- `A + (Shift + K) + D + (AltGr + U)` → **அஃது**
+- `H + (AltGr + (Shift + A)) + L + W` → **ஹால்**
+- `P + S + W` → **பஸ்**
+- `(Shift + S) + (AltGr + (Shift + U))` → **ஷூ**
 
 ## 🛠️ Uninstallation
 1. To uninstall it completely, run:
