@@ -17,7 +17,7 @@ Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed b
    ```bash
    sudo dpkg --install <downloaded_package_name>
 ### 🪟 Windows
-1. Download the **OwLayout.zip** file from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
+1. Download the **OwLayout-v{version}.zip** file from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
 2. Extract the zip file and run **setup.exe** located inside the extracted folder.
 
 ## 🔧 Post-Installation Steps for Linux
