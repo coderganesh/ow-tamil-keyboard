@@ -1,22 +1,26 @@
-# ⌨️ ow-tamil-keyboard-linux
+# ⌨️ ow-tamil-keyboard
 ![Keyboard layout](./assets/ow-tamil-keyboard-colored.png)
 
-Ow - The easiest Tamil keyboard layout ever created — designed for Linux, based on mapping Tamil letters to English letters with similar pronunciation.
+Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed by mapping Tamil letters to English letters with similar pronunciation.
 
 ## ✨ Features
-1. Fully compatible with Debian-based Linux distributions
-2. Easy to install/uninstall and use
-3. No need to memorise complex key mappings
-4. Supports five commonly used Grantha-derived Tamil characters and the Indian rupee symbol
-5. Uses only 27 keys: 25 alphabetic, 1 Shift, and 1 AltGr
+1. Uses only 27 keys: 25 alphabetic, 1 Shift, and 1 AltGr.
+2. No need to memorise complex key mappings.
+3. Easy to install and uninstall.
+4. Fully compatible with Windows and all Debian-based Linux distributions.
+5. Supports five commonly used Grantha characters and the Indian rupee symbol.
 
 ## 🛠️ Installation
-1. Download the latest **.deb** package from the [Releases](https://github.com/coderganesh/ow-tamil-keyboard-linux/releases) page
+### 🐧 Linux
+1. Download the **.deb** package from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
 2. Install it using `dpkg` or your preferred package manager:
    ```bash
    sudo dpkg --install <downloaded_package_name>
+### 🪟 Windows
+1. Download the **OwLayout.zip** file from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
+2. Extract the zip file and run **setup.exe** located inside the extracted folder.
 
-## 🔧 Post-Installation Steps
+## 🔧 Post-Installation Steps for Linux
 
 1. **Add the Keyboard Layout**  
    After installation, go to your  
@@ -65,16 +69,16 @@ Ow - The easiest Tamil keyboard layout ever created — designed for Linux, base
 - `(Shift + S) + (AltGr + (Shift + U))` → **ஷூ**
 
 ## 🛠️ Uninstallation
+### 🐧 Linux
 1. To uninstall it completely, run:
    ```bash
    sudo dpkg --purge owtamilkb
 2. Go to your **System Settings > Keyboard > Layouts**  
    and **remove any entry for the uninstalled layout if it still exists**, to complete the uninstallation.
 
-## 🔄 Update Package
+## 🔄 How to Update
 Updating requires uninstalling the old version first and then installing the new one.  
 Follow the steps in the installation and uninstallation sections above.
 
 ## 🙋‍♂️ Having Issues?
-
-If you face any problems or have suggestions, feel free to [open an issue](https://github.com/coderganesh/ow-tamil-keyboard-linux/issues).
+If you face any problems or have suggestions, feel free to [open an issue](https://github.com/coderganesh/ow-tamil-keyboard/issues).
