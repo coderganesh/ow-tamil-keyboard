@@ -82,3 +82,8 @@ Follow the steps in the installation and uninstallation sections above.
 
 ## 🙋‍♂️ Having Issues?
 If you face any problems or have suggestions, feel free to [open an issue](https://github.com/coderganesh/ow-tamil-keyboard/issues).
+
+## License
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
