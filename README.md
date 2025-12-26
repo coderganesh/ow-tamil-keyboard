@@ -12,10 +12,14 @@ Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed b
 
 ## 🛠️ Installation
 ### 🐧 Linux
+#### Debian-based (including Ubuntu and Ubuntu-based)
 1. Download the **.deb** package from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
 2. Install it using `apt` or your preferred package manager:
    ```bash
    sudo apt update && sudo apt install ./<downloaded_package_name>
+#### Non-Debian-based or Manual installation
+1. Append the contents of `owtamilkb-linux/usr/share/owtamilkb/keymaps_ta.c` to `/usr/share/X11/xkb/symbols/in`
+2. In `/usr/share/X11/xkb/rules/evdev.xml`, paste the contents of `owtamilkb-linux/usr/share/owtamilkb/kb_config.xml` inside the `<variantList>` element under `<layoutList>/<layout>/<configItem>`, where the `<configItem>/<name>` value is `"in"`.
 ### 🪟 Windows
 1. Download the **OwLayout-v{version}.zip** file from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
 2. Extract the zip file and run **setup.exe** located inside the extracted folder.
@@ -25,7 +29,7 @@ Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed b
 1. **Add the Keyboard Layout**  
    After installation, go to your  
    **System Settings > Keyboard > Layouts**  
-   and **add the newly installed layout** to start using it.
+   and **add the newly installed layout** to start using it. If the layout doesn’t activate after adding, log out and log in.
 
 2. **Fix Right Alt (AltGr) Key Issue**  
    If the **AltGr (Right Alt)** key is not working, enable it by going to:  
