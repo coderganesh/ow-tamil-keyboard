@@ -5,8 +5,8 @@ xkb_symbols "owtamilkb" {
     // Description: Easiest keymap ever created for Tamil based on mapping with English letters having similar pronunciation.
     // Encoding: Unicode (http://www.unicode.org)
     // Author: Ganeshan Murugan <coderganesh@github>
-    // Date  : Sun October 19 22:35:00 IST 2025
-    // Version: 1.1
+    // Date  : Fri December 19 15:53:00 IST 2025
+    // Version: 1.2
 
     name[Group1]= "Tamil (Ow Keyboard)";
 
@@ -33,7 +33,7 @@ xkb_symbols "owtamilkb" {
     key <AC05>	{[ U0B99 ]};    // G = ங
     key <AC06>	{[ U0BB9 ]};    // H = ஹ
     key <AC07>	{[ U0B9E, NoSymbol, U0B9C ]};   // J = ஞ; AltGr + ஞ = ஜ
-    key <AC08>	{[ U0BE7, U0B83 ]}; // K = ௧; Shift + ௧ = ஃ
+    key <AC08>	{[ U0B95, U0B83 ]}; // K = க; Shift + க = ஃ
     key <AC09>	{[ U0BB2, U0BB3 ]}; // L = ல; Shift + ல = ள
 
     // Z row

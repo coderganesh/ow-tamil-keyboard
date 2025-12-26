@@ -13,9 +13,9 @@ Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed b
 ## 🛠️ Installation
 ### 🐧 Linux
 1. Download the **.deb** package from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
-2. Install it using `dpkg` or your preferred package manager:
+2. Install it using `apt` or your preferred package manager:
    ```bash
-   sudo dpkg --install <downloaded_package_name>
+   sudo apt update && sudo apt install ./<downloaded_package_name>
 ### 🪟 Windows
 1. Download the **OwLayout-v{version}.zip** file from the **latest release** on the [Releases](https://github.com/coderganesh/ow-tamil-keyboard/releases) page.
 2. Extract the zip file and run **setup.exe** located inside the extracted folder.
@@ -43,7 +43,7 @@ Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed b
 ![Consonants mapping table](./assets/tamil_consonants_mapping_table.png)
 
 ---
-### ௧ிரந்த மெய் எழுத்துகள் (Grantha Consonants):
+### கிரந்த மெய் எழுத்துகள் (Grantha Consonants):
 ![Grantha consonants mapping table](./assets/grantha_consonants_mapping_table.png)
 
 ---
@@ -72,7 +72,7 @@ Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed b
 ### 🐧 Linux
 1. To uninstall it completely, run:
    ```bash
-   sudo dpkg --purge owtamilkb
+   sudo apt purge owtamilkb
 2. Go to your **System Settings > Keyboard > Layouts**  
    and **remove any entry for the uninstalled layout if it still exists**, to complete the uninstallation.
 

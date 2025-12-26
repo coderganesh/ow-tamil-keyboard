@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 echo "Running ow keyboard layout installer..."
 python3 /usr/local/bin/ow_layout_installer.py

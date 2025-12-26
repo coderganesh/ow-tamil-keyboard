@@ -1,8 +1,9 @@
 Package: owtamilkb
-Version: 1.1
+Version: 1.2
 Section: utils
 Priority: optional
 Architecture: all
+Depends: python3, python3-lxml
 Maintainer: Ganeshan Murugan <coderganesh@github>
 Description: Ow Tamil Keyboard Layout Installer
  A simple tool to install and register Ow Tamil keyboard layout in X11.
