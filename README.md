@@ -43,7 +43,7 @@ Ow Tamil Keyboard — the easiest Tamil keyboard layout ever created, designed b
 ![Consonants mapping table](./assets/tamil_consonants_mapping_table.png)
 
 ---
-### ௧ிரந்த மெய் எழுத்துகள் (Grantha Consonants):
+### கிரந்த மெய் எழுத்துகள் (Grantha Consonants):
 ![Grantha consonants mapping table](./assets/grantha_consonants_mapping_table.png)
 
 ---
